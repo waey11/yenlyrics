@@ -18,13 +18,17 @@
 	{
 		"title": "mandy",
 		"lyricsPath": "lyrics/mandy.txt"
-	}
-	,
+	},
 	{
 		"title": "^-^",
 		"lyricsPath": "lyrics/^-^.txt"
+	},
+	{
+		"title": "pressure",
+		"lyricsPath": "lyrics/pressure.txt"
+	},
+	{
+		"title": "sosa (plugged up)",
+		"lyricsPath": "lyrics/sosa.txt"
 	}
-
-
-
 ]
