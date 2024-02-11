@@ -6,6 +6,8 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Lyrics Website</title>
    <link rel="stylesheet" href="styles.css">
+   <link rel="preconnect" href="https://fonts.gstatic.com">
+   <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -14,13 +16,16 @@
    </header>
 
    <main>
-      <div class="search-container">
+      <div id="searchContainer">
          <input type="text" id="searchInput" placeholder="Search for a song...">
          <button id="searchButton">Search</button>
       </div>
 
-      <div id="lyricsDisplay">
-         <!-- Lyrics will be displayed here -->
+      <div id="songListContainer">
+         <h2>Songs</h2>
+         <ul id="songList">
+            <!-- Song list will be populated here -->
+         </ul>
       </div>
    </main>
 
@@ -29,6 +34,60 @@
    </footer>
 
    <script src="app.js"></script>
+   <script>
+      document.addEventListener("DOMContentLoaded", function () {
+         fetchSongList();
+         document.getElementById("searchButton").addEventListener("click", searchSong);
+         document.getElementById("searchInput").addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+               searchSong();
+            }
+         });
+      });
+      async function fetchSongList() {
+         try {
+            const response = await fetch("songs.json");
+            if (!response.ok) {
+               throw new Error("Failed to fetch song list");
+            }
+            const songs = await response.json();
+            const songListElement = document.getElementById("songList");
+            songs.forEach(song => {
+               const listItem = document.createElement("li");
+               listItem.textContent = song.title;
+               listItem.classList.add("songItem");
+               listItem.dataset.lyricsPath = song.lyricsPath; // Store lyricsPath as dataset
+               listItem.addEventListener("click", function () {
+                  navigateToLyricsPage(song.lyricsPath);
+               });
+               songListElement.appendChild(listItem);
+            });
+         } catch (error) {
+            console.error("Error:", error);
+            // Optionally, display an error message or handle the error in another way
+         }
+      }
+
+
+      function navigateToLyricsPage(lyricsPath) {
+         window.location.href = `lyrics.html?lyricsPath=${lyricsPath}`;
+      }
+
+      function searchSong() {
+         const searchQuery = document.getElementById("searchInput").value.trim().toLowerCase();
+         const songs = document.querySelectorAll('.songItem');
+         for (const song of songs) {
+            const songTitle = song.textContent.toLowerCase();
+            if (songTitle.includes(searchQuery)) {
+               navigateToLyricsPage(song.dataset.lyricsPath);
+               return;
+            }
+         }
+         // If no matching song found
+         alert("Song not found!");
+      }
+
+   </script>
 </body>
 
 </html>

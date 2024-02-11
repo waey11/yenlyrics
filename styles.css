@@ -1,16 +1,22 @@
 /* CSS for header, main, footer */
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: "Archivo Black", sans-serif; /* Use the Gothic font */
 	margin: 0;
 	padding: 0;
 	background-color: #ff1d65;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 }
 
 header {
-	background-color: #fff;
-	color: #ff1d65;
+	background-color: #ff1d65; /* Pink background */
+	color: black; /* Black text color */
 	text-align: center;
 	padding: 20px 0;
+	font-family: "Gothic", sans-serif; /* Gothic font */
 }
 
 h1 {
@@ -21,50 +27,84 @@ h1 {
 
 main {
 	padding: 20px;
+	text-align: center;
 }
 
-.search-container {
+#songListContainer {
 	margin-bottom: 20px;
 }
 
+#songList {
+	list-style: none;
+	padding: 0;
+}
+
+.songItem {
+	font-size: 18px;
+	font-family: "Arial", sans-serif;
+	margin-bottom: 10px;
+	cursor: pointer;
+	transition: font-size 0.3s, color 0.3s;
+}
+
+.songItem:hover {
+	font-size: 20px;
+	color: #ff4f78;
+}
+
+/* Search Input and Button Styles */
+#searchContainer {
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 #searchInput {
-	width: calc(100% - 90px);
+	width: 70%;
 	padding: 10px;
 	font-size: 16px;
 	border: 1px solid #ccc;
 	border-radius: 5px;
+	margin-right: 10px;
 }
 
 #searchButton {
-	width: 70px;
-	padding: 10px;
+	padding: 10px 20px;
 	font-size: 16px;
 	border: none;
 	border-radius: 5px;
 	background-color: #fff;
 	color: #ff1d65;
 	cursor: pointer;
+	transition: background-color 0.3s, color 0.3s;
 }
 
 #searchButton:hover {
 	background-color: #ff1d65;
 	color: #fff;
 }
-
-#lyricsDisplay {
+.lyrics-container {
 	padding: 20px;
 	background-color: #fff;
 	border-radius: 5px;
-	min-height: 200px;
+	max-height: 400px; /* Set the maximum height of the container */
+	overflow-y: auto; /* Add vertical scroll when content exceeds the height */
+	margin: 20px auto;
+	max-width: 600px;
 }
 
+.go-back-button {
+	background-color: #ff1d65;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: background-color 0.3s;
+}
 
-footer {
-	background-color: #fff;
-	color: #ff1d65;
-	text-align: center;
-	padding: 10px 0;
-	position: fixed;
-	bottom: 0;
-	width: 100%;
+.go-back-button:hover {
+	background-color: #ff4f78;
 }

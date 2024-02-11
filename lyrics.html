@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Lyrics</title>
+   <link rel="stylesheet" href="styles.css">
+   <style>
+      .lyrics-container {
+         padding: 20px;
+         background-color: #fff;
+         border-radius: 5px;
+         min-height: 200px;
+         margin: 20px auto;
+         max-width: 600px;
+      }
+
+      .go-back-button {
+         background-color: #ff1d65;
+         color: #fff;
+         border: none;
+         border-radius: 5px;
+         padding: 10px 20px;
+         cursor: pointer;
+         font-size: 16px;
+         transition: background-color 0.3s;
+      }
+
+      .go-back-button:hover {
+         background-color: #ff4f78;
+      }
+   </style>
+</head>
+
+<body>
+   <header>
+      <h1>Yen Lyrics</h1>
+   </header>
+
+   <main>
+      <div class="lyrics-container" id="lyricsContainer">
+         <!-- Lyrics will be displayed here -->
+      </div>
+      <button class="go-back-button" onclick="goBack()">Go Back</button>
+   </main>
+
+   <footer>
+      <!-- <p>made with ❤️ by @waey0</p> -->
+   </footer>
+
+   <script>
+      function goBack() {
+         window.history.back();
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+         displayLyrics();
+      });
+
+      async function displayLyrics() {
+         const params = new URLSearchParams(window.location.search);
+         const lyricsPath = params.get('lyricsPath');
+         try {
+            const response = await fetch(lyricsPath);
+            if (!response.ok) {
+               throw new Error("Lyrics not found");
+            }
+            const lyrics = await response.text();
+            document.getElementById("lyricsContainer").innerText = lyrics;
+         } catch (error) {
+            console.error("Error:", error);
+            document.getElementById("lyricsContainer").innerText = "Lyrics not found";
+         }
+      }
+   </script>
+</body>
+
+</html>
