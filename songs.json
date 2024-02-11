@@ -16,7 +16,15 @@
 		"lyricsPath": "lyrics/rose.txt"
 	},
 	{
-		"title": "Trust Issues",
-		"lyricsPath": "lyrics/trust_issues.txt"
+		"title": "mandy",
+		"lyricsPath": "lyrics/mandy.txt"
 	}
+	,
+	{
+		"title": "^-^",
+		"lyricsPath": "lyrics/^-^.txt"
+	}
+
+
+
 ]
