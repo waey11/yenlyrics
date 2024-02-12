@@ -58,5 +58,9 @@
 	{
 		"title": "untitled screamo song",
 		"lyricsPath": "lyrics/untitled_screamo_song.txt"
+	},
+	{
+		"title": "salad days",
+		"lyricsPath": "lyrics/salad_days.txt"
 	}
 ]
