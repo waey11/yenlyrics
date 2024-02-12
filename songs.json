@@ -30,5 +30,33 @@
 	{
 		"title": "sosa (plugged up)",
 		"lyricsPath": "lyrics/sosa.txt"
+	},
+	{
+		"title": "fear of gods",
+		"lyricsPath": "lyrics/fear_of_gods.txt"
+	},
+	{
+		"title": "offensive (novagang Version)",
+		"lyricsPath": "lyrics/offensive.txt"
+	},
+	{
+		"title": "punk",
+		"lyricsPath": "lyrics/punk.txt"
+	},
+	{
+		"title": "fog",
+		"lyricsPath": "lyrics/fog.txt"
+	},
+	{
+		"title": "yesmen",
+		"lyricsPath": "lyrics/yesmen.txt"
+	},
+	{
+		"title": "oh the agony",
+		"lyricsPath": "lyrics/oh_the_agony.txt"
+	},
+	{
+		"title": "untitled screamo song",
+		"lyricsPath": "lyrics/untitled_screamo_song.txt"
 	}
 ]
