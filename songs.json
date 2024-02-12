@@ -1,106 +1,1158 @@
 [
 	{
-		"title": "Convenience",
-		"lyricsPath": "lyrics/convenience.txt"
+		"title": "(miss my) headache",
+		"lyricsPath": "lyrics\\(miss my) headache.txt"
 	},
 	{
-		"title": "Entry Four",
-		"lyricsPath": "lyrics/entry_four.txt"
+		"title": "2020tb freestyle",
+		"lyricsPath": "lyrics\\2020tb freestyle.txt"
 	},
 	{
-		"title": "Higher Den U",
-		"lyricsPath": "lyrics/higher_den_u.txt"
+		"title": "27",
+		"lyricsPath": "lyrics\\27.txt"
 	},
 	{
-		"title": "Rose",
-		"lyricsPath": "lyrics/rose.txt"
+		"title": "4u",
+		"lyricsPath": "lyrics\\4u.txt"
 	},
 	{
-		"title": "mandy",
-		"lyricsPath": "lyrics/mandy.txt"
-	},
-	{
-		"title": "^-^",
-		"lyricsPath": "lyrics/^-^.txt"
-	},
-	{
-		"title": "pressure",
-		"lyricsPath": "lyrics/pressure.txt"
-	},
-	{
-		"title": "sosa (plugged up)",
-		"lyricsPath": "lyrics/sosa.txt"
-	},
-	{
-		"title": "fear of gods",
-		"lyricsPath": "lyrics/fear_of_gods.txt"
-	},
-	{
-		"title": "offensive (novagang Version)",
-		"lyricsPath": "lyrics/offensive.txt"
-	},
-	{
-		"title": "punk",
-		"lyricsPath": "lyrics/punk.txt"
-	},
-	{
-		"title": "fog",
-		"lyricsPath": "lyrics/fog.txt"
-	},
-	{
-		"title": "yesmen",
-		"lyricsPath": "lyrics/yesmen.txt"
-	},
-	{
-		"title": "oh the agony",
-		"lyricsPath": "lyrics/oh_the_agony.txt"
-	},
-	{
-		"title": "untitled screamo song",
-		"lyricsPath": "lyrics/untitled_screamo_song.txt"
-	},
-	{
-		"title": "salad days",
-		"lyricsPath": "lyrics/salad_days.txt"
-	},
-	{
-		"title": "sorry we ruined everything",
-		"lyricsPath": "lyrics/sorry_we ruined.txt"
-	},
-	{
-		"title": "GOTHSZN GOTHLUV",
-		"lyricsPath": "lyrics/GOTHSZN.txt"
-	},
-	{
-		"title": "molly",
-		"lyricsPath": "lyrics/molly.txt"
-	},
-	{
-		"title": "sick",
-		"lyricsPath": "lyrics/sick.txt"
-	},
-	{
-		"title": "Yhu Ma Sun",
-		"lyricsPath": "lyrics/yhu_ma_sun.txt"
-	},
-	{
-		"title": "Alexis",
-		"lyricsPath": "lyrics/alexis.txt"
-	},
-	{
-		"title": "bleed",
-		"lyricsPath": "lyrics/bleed.txt"
+		"title": "6evermir diss",
+		"lyricsPath": "lyrics\\6evermir diss.txt"
 	},
 	{
 		"title": ";(",
-		"lyricsPath": "lyrics/;(.txt"
+		"lyricsPath": "lyrics\\;(.txt"
 	},
 	{
-		"title": "strain",
-		"lyricsPath": "lyrics/strain.txt"
+		"title": "Acne!",
+		"lyricsPath": "lyrics\\Acne!.txt"
 	},
 	{
-		"title": "baby wuts wrong",
-		"lyricsPath": "lyrics/baby_wuts_wrong.txt"
+		"title": "again [new]",
+		"lyricsPath": "lyrics\\again [new].txt"
+	},
+	{
+		"title": "again",
+		"lyricsPath": "lyrics\\again.txt"
+	},
+	{
+		"title": "Alexis",
+		"lyricsPath": "lyrics\\Alexis.txt"
+	},
+	{
+		"title": "all black",
+		"lyricsPath": "lyrics\\all black.txt"
+	},
+	{
+		"title": "all gone",
+		"lyricsPath": "lyrics\\all gone.txt"
+	},
+	{
+		"title": "Alone",
+		"lyricsPath": "lyrics\\Alone.txt"
+	},
+	{
+		"title": "anemic",
+		"lyricsPath": "lyrics\\anemic.txt"
+	},
+	{
+		"title": "Away",
+		"lyricsPath": "lyrics\\Away.txt"
+	},
+	{
+		"title": "baby_wuts_wrong",
+		"lyricsPath": "lyrics\\baby_wuts_wrong.txt"
+	},
+	{
+		"title": "Backend (Jeter)",
+		"lyricsPath": "lyrics\\Backend (Jeter).txt"
+	},
+	{
+		"title": "BAKKEND",
+		"lyricsPath": "lyrics\\BAKKEND.txt"
+	},
+	{
+		"title": "balenci thot",
+		"lyricsPath": "lyrics\\balenci thot.txt"
+	},
+	{
+		"title": "bedroom",
+		"lyricsPath": "lyrics\\bedroom.txt"
+	},
+	{
+		"title": "Before rehab",
+		"lyricsPath": "lyrics\\Before rehab.txt"
+	},
+	{
+		"title": "BENZ BABY",
+		"lyricsPath": "lyrics\\BENZ BABY.txt"
+	},
+	{
+		"title": "Betrayal",
+		"lyricsPath": "lyrics\\Betrayal.txt"
+	},
+	{
+		"title": "bleed",
+		"lyricsPath": "lyrics\\bleed.txt"
+	},
+	{
+		"title": "Bleed\u200b\u200b",
+		"lyricsPath": "lyrics\\Bleed\u200b\u200b.txt"
+	},
+	{
+		"title": "blind in agony",
+		"lyricsPath": "lyrics\\blind in agony.txt"
+	},
+	{
+		"title": "boy\u2019s a liar",
+		"lyricsPath": "lyrics\\boy\u2019s a liar.txt"
+	},
+	{
+		"title": "Brain",
+		"lyricsPath": "lyrics\\Brain.txt"
+	},
+	{
+		"title": "bratz",
+		"lyricsPath": "lyrics\\bratz.txt"
+	},
+	{
+		"title": "burn",
+		"lyricsPath": "lyrics\\burn.txt"
+	},
+	{
+		"title": "cartier",
+		"lyricsPath": "lyrics\\cartier.txt"
+	},
+	{
+		"title": "Cartoon",
+		"lyricsPath": "lyrics\\Cartoon.txt"
+	},
+	{
+		"title": "Claire",
+		"lyricsPath": "lyrics\\Claire.txt"
+	},
+	{
+		"title": "CLICK THIS SONG IF YOU LIKE WOLFS (KILL ME)",
+		"lyricsPath": "lyrics\\CLICK THIS SONG IF YOU LIKE WOLFS (KILL ME).txt"
+	},
+	{
+		"title": "clutch god",
+		"lyricsPath": "lyrics\\clutch god.txt"
+	},
+	{
+		"title": "company",
+		"lyricsPath": "lyrics\\company.txt"
+	},
+	{
+		"title": "convenience",
+		"lyricsPath": "lyrics\\convenience.txt"
+	},
+	{
+		"title": "Copy me",
+		"lyricsPath": "lyrics\\Copy me.txt"
+	},
+	{
+		"title": "Crash out",
+		"lyricsPath": "lyrics\\Crash out.txt"
+	},
+	{
+		"title": "damage",
+		"lyricsPath": "lyrics\\damage.txt"
+	},
+	{
+		"title": "damn ngl i did it again",
+		"lyricsPath": "lyrics\\damn ngl i did it again.txt"
+	},
+	{
+		"title": "dead girl",
+		"lyricsPath": "lyrics\\dead girl.txt"
+	},
+	{
+		"title": "declare",
+		"lyricsPath": "lyrics\\declare.txt"
+	},
+	{
+		"title": "Demon",
+		"lyricsPath": "lyrics\\Demon.txt"
+	},
+	{
+		"title": "Die x6",
+		"lyricsPath": "lyrics\\Die x6.txt"
+	},
+	{
+		"title": "Dizzy",
+		"lyricsPath": "lyrics\\Dizzy.txt"
+	},
+	{
+		"title": "don\u2019t worry bout me",
+		"lyricsPath": "lyrics\\don\u2019t worry bout me.txt"
+	},
+	{
+		"title": "down that block right there don\u2019t be scared",
+		"lyricsPath": "lyrics\\down that block right there don\u2019t be scared.txt"
+	},
+	{
+		"title": "do_u_feel_me",
+		"lyricsPath": "lyrics\\do_u_feel_me.txt"
+	},
+	{
+		"title": "draculea",
+		"lyricsPath": "lyrics\\draculea.txt"
+	},
+	{
+		"title": "drank look cool but i like my liver",
+		"lyricsPath": "lyrics\\drank look cool but i like my liver.txt"
+	},
+	{
+		"title": "dust",
+		"lyricsPath": "lyrics\\dust.txt"
+	},
+	{
+		"title": "e-whore",
+		"lyricsPath": "lyrics\\e-whore.txt"
+	},
+	{
+		"title": "Egirl",
+		"lyricsPath": "lyrics\\Egirl.txt"
+	},
+	{
+		"title": "elastic",
+		"lyricsPath": "lyrics\\elastic.txt"
+	},
+	{
+		"title": "Entry 7",
+		"lyricsPath": "lyrics\\Entry 7.txt"
+	},
+	{
+		"title": "entry five",
+		"lyricsPath": "lyrics\\entry five.txt"
+	},
+	{
+		"title": "entry seven (kurt cobain)",
+		"lyricsPath": "lyrics\\entry seven (kurt cobain).txt"
+	},
+	{
+		"title": "Entry Seven [OG]",
+		"lyricsPath": "lyrics\\Entry Seven [OG].txt"
+	},
+	{
+		"title": "entry_four",
+		"lyricsPath": "lyrics\\entry_four.txt"
+	},
+	{
+		"title": "fall",
+		"lyricsPath": "lyrics\\fall.txt"
+	},
+	{
+		"title": "fallen",
+		"lyricsPath": "lyrics\\fallen.txt"
+	},
+	{
+		"title": "Fangirl",
+		"lyricsPath": "lyrics\\Fangirl.txt"
+	},
+	{
+		"title": "FEAR OF GODS",
+		"lyricsPath": "lyrics\\FEAR OF GODS.txt"
+	},
+	{
+		"title": "fear_of_gods",
+		"lyricsPath": "lyrics\\fear_of_gods.txt"
+	},
+	{
+		"title": "feel something",
+		"lyricsPath": "lyrics\\feel something.txt"
+	},
+	{
+		"title": "Fell in luv",
+		"lyricsPath": "lyrics\\Fell in luv.txt"
+	},
+	{
+		"title": "fifteen",
+		"lyricsPath": "lyrics\\fifteen.txt"
+	},
+	{
+		"title": "Finally mine",
+		"lyricsPath": "lyrics\\Finally mine.txt"
+	},
+	{
+		"title": "Find Me Out",
+		"lyricsPath": "lyrics\\Find Me Out.txt"
+	},
+	{
+		"title": "Find Me",
+		"lyricsPath": "lyrics\\Find Me.txt"
+	},
+	{
+		"title": "Fitness",
+		"lyricsPath": "lyrics\\Fitness.txt"
+	},
+	{
+		"title": "flow",
+		"lyricsPath": "lyrics\\flow.txt"
+	},
+	{
+		"title": "Fog",
+		"lyricsPath": "lyrics\\Fog.txt"
+	},
+	{
+		"title": "Foolish - evvls",
+		"lyricsPath": "lyrics\\Foolish - evvls.txt"
+	},
+	{
+		"title": "for the people that like to listen",
+		"lyricsPath": "lyrics\\for the people that like to listen.txt"
+	},
+	{
+		"title": "foreign",
+		"lyricsPath": "lyrics\\foreign.txt"
+	},
+	{
+		"title": "fountains",
+		"lyricsPath": "lyrics\\fountains.txt"
+	},
+	{
+		"title": "frown",
+		"lyricsPath": "lyrics\\frown.txt"
+	},
+	{
+		"title": "fuckschool",
+		"lyricsPath": "lyrics\\fuckschool.txt"
+	},
+	{
+		"title": "gelato",
+		"lyricsPath": "lyrics\\gelato.txt"
+	},
+	{
+		"title": "ghost",
+		"lyricsPath": "lyrics\\ghost.txt"
+	},
+	{
+		"title": "Girls a liar",
+		"lyricsPath": "lyrics\\Girls a liar.txt"
+	},
+	{
+		"title": "go white boy go",
+		"lyricsPath": "lyrics\\go white boy go.txt"
+	},
+	{
+		"title": "god spoke remix",
+		"lyricsPath": "lyrics\\god spoke remix.txt"
+	},
+	{
+		"title": "GOTHSZN GOTHLUV GOTHCHANT GOTHENLIGHTMENT",
+		"lyricsPath": "lyrics\\GOTHSZN GOTHLUV GOTHCHANT GOTHENLIGHTMENT.txt"
+	},
+	{
+		"title": "GOTHSZN",
+		"lyricsPath": "lyrics\\GOTHSZN.txt"
+	},
+	{
+		"title": "greaf",
+		"lyricsPath": "lyrics\\greaf.txt"
+	},
+	{
+		"title": "gta",
+		"lyricsPath": "lyrics\\gta.txt"
+	},
+	{
+		"title": "haha get #trollgang ed",
+		"lyricsPath": "lyrics\\haha get #trollgang ed.txt"
+	},
+	{
+		"title": "Hands Up",
+		"lyricsPath": "lyrics\\Hands Up.txt"
+	},
+	{
+		"title": "hate me Love me",
+		"lyricsPath": "lyrics\\hate me Love me.txt"
+	},
+	{
+		"title": "hateinterlude",
+		"lyricsPath": "lyrics\\hateinterlude.txt"
+	},
+	{
+		"title": "haunt",
+		"lyricsPath": "lyrics\\haunt.txt"
+	},
+	{
+		"title": "Headache hi a",
+		"lyricsPath": "lyrics\\Headache hi a.txt"
+	},
+	{
+		"title": "headache",
+		"lyricsPath": "lyrics\\headache.txt"
+	},
+	{
+		"title": "hearts",
+		"lyricsPath": "lyrics\\hearts.txt"
+	},
+	{
+		"title": "HELL",
+		"lyricsPath": "lyrics\\HELL.txt"
+	},
+	{
+		"title": "hey u",
+		"lyricsPath": "lyrics\\hey u.txt"
+	},
+	{
+		"title": "Higher Den \u00dc",
+		"lyricsPath": "lyrics\\Higher Den \u00dc.txt"
+	},
+	{
+		"title": "higher_den_u",
+		"lyricsPath": "lyrics\\higher_den_u.txt"
+	},
+	{
+		"title": "highschool",
+		"lyricsPath": "lyrics\\highschool.txt"
+	},
+	{
+		"title": "HILLS",
+		"lyricsPath": "lyrics\\HILLS.txt"
+	},
+	{
+		"title": "Hml",
+		"lyricsPath": "lyrics\\Hml.txt"
+	},
+	{
+		"title": "Honey bourbon",
+		"lyricsPath": "lyrics\\Honey bourbon.txt"
+	},
+	{
+		"title": "horror",
+		"lyricsPath": "lyrics\\horror.txt"
+	},
+	{
+		"title": "howl",
+		"lyricsPath": "lyrics\\howl.txt"
+	},
+	{
+		"title": "I might die",
+		"lyricsPath": "lyrics\\I might die.txt"
+	},
+	{
+		"title": "icy mix (2023)",
+		"lyricsPath": "lyrics\\icy mix (2023).txt"
+	},
+	{
+		"title": "Idiot",
+		"lyricsPath": "lyrics\\Idiot.txt"
+	},
+	{
+		"title": "Idky",
+		"lyricsPath": "lyrics\\Idky.txt"
+	},
+	{
+		"title": "im mac demarco",
+		"lyricsPath": "lyrics\\im mac demarco.txt"
+	},
+	{
+		"title": "Im not like you",
+		"lyricsPath": "lyrics\\Im not like you.txt"
+	},
+	{
+		"title": "In ma mattress",
+		"lyricsPath": "lyrics\\In ma mattress.txt"
+	},
+	{
+		"title": "Infamous",
+		"lyricsPath": "lyrics\\Infamous.txt"
+	},
+	{
+		"title": "intro",
+		"lyricsPath": "lyrics\\intro.txt"
+	},
+	{
+		"title": "issues",
+		"lyricsPath": "lyrics\\issues.txt"
+	},
+	{
+		"title": "I\u200b miss u and im at this point in my life",
+		"lyricsPath": "lyrics\\I\u200b miss u and im at this point in my life.txt"
+	},
+	{
+		"title": "Jealous",
+		"lyricsPath": "lyrics\\Jealous.txt"
+	},
+	{
+		"title": "jodeci",
+		"lyricsPath": "lyrics\\jodeci.txt"
+	},
+	{
+		"title": "jugg",
+		"lyricsPath": "lyrics\\jugg.txt"
+	},
+	{
+		"title": "just like me",
+		"lyricsPath": "lyrics\\just like me.txt"
+	},
+	{
+		"title": "Karma",
+		"lyricsPath": "lyrics\\Karma.txt"
+	},
+	{
+		"title": "kesha k",
+		"lyricsPath": "lyrics\\kesha k.txt"
+	},
+	{
+		"title": "lame ahh nigga",
+		"lyricsPath": "lyrics\\lame ahh nigga.txt"
+	},
+	{
+		"title": "Latelyy",
+		"lyricsPath": "lyrics\\Latelyy.txt"
+	},
+	{
+		"title": "laylow",
+		"lyricsPath": "lyrics\\laylow.txt"
+	},
+	{
+		"title": "Leave Me Alone",
+		"lyricsPath": "lyrics\\Leave Me Alone.txt"
+	},
+	{
+		"title": "let me b",
+		"lyricsPath": "lyrics\\let me b.txt"
+	},
+	{
+		"title": "lmao",
+		"lyricsPath": "lyrics\\lmao.txt"
+	},
+	{
+		"title": "Look what you made me do",
+		"lyricsPath": "lyrics\\Look what you made me do.txt"
+	},
+	{
+		"title": "lucifers favorite color",
+		"lyricsPath": "lyrics\\lucifers favorite color.txt"
+	},
+	{
+		"title": "LULLABY",
+		"lyricsPath": "lyrics\\LULLABY.txt"
+	},
+	{
+		"title": "Maajins & Stitch Diss",
+		"lyricsPath": "lyrics\\Maajins & Stitch Diss.txt"
+	},
+	{
+		"title": "mandy",
+		"lyricsPath": "lyrics\\mandy.txt"
+	},
+	{
+		"title": "mandys goth angelz mix",
+		"lyricsPath": "lyrics\\mandys goth angelz mix.txt"
+	},
+	{
+		"title": "mascara",
+		"lyricsPath": "lyrics\\mascara.txt"
+	},
+	{
+		"title": "Me",
+		"lyricsPath": "lyrics\\Me.txt"
+	},
+	{
+		"title": "Melatonin",
+		"lyricsPath": "lyrics\\Melatonin.txt"
+	},
+	{
+		"title": "misery",
+		"lyricsPath": "lyrics\\misery.txt"
+	},
+	{
+		"title": "misfit",
+		"lyricsPath": "lyrics\\misfit.txt"
+	},
+	{
+		"title": "molly",
+		"lyricsPath": "lyrics\\molly.txt"
+	},
+	{
+		"title": "mona lisa",
+		"lyricsPath": "lyrics\\mona lisa.txt"
+	},
+	{
+		"title": "my fault we forgot",
+		"lyricsPath": "lyrics\\my fault we forgot.txt"
+	},
+	{
+		"title": "Need",
+		"lyricsPath": "lyrics\\Need.txt"
+	},
+	{
+		"title": "netbangers",
+		"lyricsPath": "lyrics\\netbangers.txt"
+	},
+	{
+		"title": "Never been sorry",
+		"lyricsPath": "lyrics\\Never been sorry.txt"
+	},
+	{
+		"title": "No Scripts",
+		"lyricsPath": "lyrics\\No Scripts.txt"
+	},
+	{
+		"title": "not enough",
+		"lyricsPath": "lyrics\\not enough.txt"
+	},
+	{
+		"title": "not everybody",
+		"lyricsPath": "lyrics\\not everybody.txt"
+	},
+	{
+		"title": "numb",
+		"lyricsPath": "lyrics\\numb.txt"
+	},
+	{
+		"title": "Nurse",
+		"lyricsPath": "lyrics\\Nurse.txt"
+	},
+	{
+		"title": "Nvradrought",
+		"lyricsPath": "lyrics\\Nvradrought.txt"
+	},
+	{
+		"title": "offensive",
+		"lyricsPath": "lyrics\\offensive.txt"
+	},
+	{
+		"title": "oh the agony",
+		"lyricsPath": "lyrics\\oh the agony.txt"
+	},
+	{
+		"title": "ohemgee",
+		"lyricsPath": "lyrics\\ohemgee.txt"
+	},
+	{
+		"title": "oh_the_agony",
+		"lyricsPath": "lyrics\\oh_the_agony.txt"
+	},
+	{
+		"title": "omar",
+		"lyricsPath": "lyrics\\omar.txt"
+	},
+	{
+		"title": "One",
+		"lyricsPath": "lyrics\\One.txt"
+	},
+	{
+		"title": "Out of love",
+		"lyricsPath": "lyrics\\Out of love.txt"
+	},
+	{
+		"title": "paranoia",
+		"lyricsPath": "lyrics\\paranoia.txt"
+	},
+	{
+		"title": "passive aggression",
+		"lyricsPath": "lyrics\\passive aggression.txt"
+	},
+	{
+		"title": "past u",
+		"lyricsPath": "lyrics\\past u.txt"
+	},
+	{
+		"title": "Peach crush (original version)",
+		"lyricsPath": "lyrics\\Peach crush (original version).txt"
+	},
+	{
+		"title": "peach orange crush",
+		"lyricsPath": "lyrics\\peach orange crush.txt"
+	},
+	{
+		"title": "Perfect timing",
+		"lyricsPath": "lyrics\\Perfect timing.txt"
+	},
+	{
+		"title": "Pictures (snippet)",
+		"lyricsPath": "lyrics\\Pictures (snippet).txt"
+	},
+	{
+		"title": "plead",
+		"lyricsPath": "lyrics\\plead.txt"
+	},
+	{
+		"title": "Plugged up",
+		"lyricsPath": "lyrics\\Plugged up.txt"
+	},
+	{
+		"title": "Pointless",
+		"lyricsPath": "lyrics\\Pointless.txt"
+	},
+	{
+		"title": "poison",
+		"lyricsPath": "lyrics\\poison.txt"
+	},
+	{
+		"title": "pressure - evvls",
+		"lyricsPath": "lyrics\\pressure - evvls.txt"
+	},
+	{
+		"title": "Pressure",
+		"lyricsPath": "lyrics\\Pressure.txt"
+	},
+	{
+		"title": "pretend",
+		"lyricsPath": "lyrics\\pretend.txt"
+	},
+	{
+		"title": "pretty n rich",
+		"lyricsPath": "lyrics\\pretty n rich.txt"
+	},
+	{
+		"title": "problems",
+		"lyricsPath": "lyrics\\problems.txt"
+	},
+	{
+		"title": "Punk",
+		"lyricsPath": "lyrics\\Punk.txt"
+	},
+	{
+		"title": "Rant",
+		"lyricsPath": "lyrics\\Rant.txt"
+	},
+	{
+		"title": "RESPECT",
+		"lyricsPath": "lyrics\\RESPECT.txt"
+	},
+	{
+		"title": "rose",
+		"lyricsPath": "lyrics\\rose.txt"
+	},
+	{
+		"title": "Run",
+		"lyricsPath": "lyrics\\Run.txt"
+	},
+	{
+		"title": "salad days",
+		"lyricsPath": "lyrics\\salad days.txt"
+	},
+	{
+		"title": "salad_days",
+		"lyricsPath": "lyrics\\salad_days.txt"
+	},
+	{
+		"title": "save her",
+		"lyricsPath": "lyrics\\save her.txt"
+	},
+	{
+		"title": "Savior",
+		"lyricsPath": "lyrics\\Savior.txt"
+	},
+	{
+		"title": "Say cheese ugly",
+		"lyricsPath": "lyrics\\Say cheese ugly.txt"
+	},
+	{
+		"title": "scam likely",
+		"lyricsPath": "lyrics\\scam likely.txt"
+	},
+	{
+		"title": "Scars",
+		"lyricsPath": "lyrics\\Scars.txt"
+	},
+	{
+		"title": "sedated",
+		"lyricsPath": "lyrics\\sedated.txt"
+	},
+	{
+		"title": "show me how",
+		"lyricsPath": "lyrics\\show me how.txt"
+	},
+	{
+		"title": "sick (2024)",
+		"lyricsPath": "lyrics\\sick (2024).txt"
+	},
+	{
+		"title": "sick",
+		"lyricsPath": "lyrics\\sick.txt"
+	},
+	{
+		"title": "SIP",
+		"lyricsPath": "lyrics\\SIP.txt"
+	},
+	{
+		"title": "situation",
+		"lyricsPath": "lyrics\\situation.txt"
+	},
+	{
+		"title": "skin",
+		"lyricsPath": "lyrics\\skin.txt"
+	},
+	{
+		"title": "Slimey",
+		"lyricsPath": "lyrics\\Slimey.txt"
+	},
+	{
+		"title": "slugs",
+		"lyricsPath": "lyrics\\slugs.txt"
+	},
+	{
+		"title": "Slutty",
+		"lyricsPath": "lyrics\\Slutty.txt"
+	},
+	{
+		"title": "snake in my boot",
+		"lyricsPath": "lyrics\\snake in my boot.txt"
+	},
+	{
+		"title": "Snake",
+		"lyricsPath": "lyrics\\Snake.txt"
+	},
+	{
+		"title": "so (2024)",
+		"lyricsPath": "lyrics\\so (2024).txt"
+	},
+	{
+		"title": "so",
+		"lyricsPath": "lyrics\\so.txt"
+	},
+	{
+		"title": "sorry_we_ruined",
+		"lyricsPath": "lyrics\\sorry_we_ruined.txt"
+	},
+	{
+		"title": "Sosa",
+		"lyricsPath": "lyrics\\Sosa.txt"
+	},
+	{
+		"title": "south",
+		"lyricsPath": "lyrics\\south.txt"
+	},
+	{
+		"title": "spaz",
+		"lyricsPath": "lyrics\\spaz.txt"
+	},
+	{
+		"title": "Stacks",
+		"lyricsPath": "lyrics\\Stacks.txt"
+	},
+	{
+		"title": "staymadpussy",
+		"lyricsPath": "lyrics\\staymadpussy.txt"
+	},
+	{
+		"title": "Strain",
+		"lyricsPath": "lyrics\\Strain.txt"
+	},
+	{
+		"title": "stuck to script",
+		"lyricsPath": "lyrics\\stuck to script.txt"
+	},
+	{
+		"title": "suicides",
+		"lyricsPath": "lyrics\\suicides.txt"
+	},
+	{
+		"title": "Taken",
+		"lyricsPath": "lyrics\\Taken.txt"
+	},
+	{
+		"title": "talk to me",
+		"lyricsPath": "lyrics\\talk to me.txt"
+	},
+	{
+		"title": "Talk to mee",
+		"lyricsPath": "lyrics\\Talk to mee.txt"
+	},
+	{
+		"title": "tell me",
+		"lyricsPath": "lyrics\\tell me.txt"
+	},
+	{
+		"title": "The final agenda",
+		"lyricsPath": "lyrics\\The final agenda.txt"
+	},
+	{
+		"title": "the lost entry log",
+		"lyricsPath": "lyrics\\the lost entry log.txt"
+	},
+	{
+		"title": "theres these woods i know",
+		"lyricsPath": "lyrics\\theres these woods i know.txt"
+	},
+	{
+		"title": "throne",
+		"lyricsPath": "lyrics\\throne.txt"
+	},
+	{
+		"title": "time",
+		"lyricsPath": "lyrics\\time.txt"
+	},
+	{
+		"title": "tonight",
+		"lyricsPath": "lyrics\\tonight.txt"
+	},
+	{
+		"title": "Tragic 2",
+		"lyricsPath": "lyrics\\Tragic 2.txt"
+	},
+	{
+		"title": "tragic",
+		"lyricsPath": "lyrics\\tragic.txt"
+	},
+	{
+		"title": "TRAGlC",
+		"lyricsPath": "lyrics\\TRAGlC.txt"
+	},
+	{
+		"title": "trampoline",
+		"lyricsPath": "lyrics\\trampoline.txt"
+	},
+	{
+		"title": "trap",
+		"lyricsPath": "lyrics\\trap.txt"
+	},
+	{
+		"title": "TRAPPPPPPP",
+		"lyricsPath": "lyrics\\TRAPPPPPPP.txt"
+	},
+	{
+		"title": "TRUST ISSUES 2",
+		"lyricsPath": "lyrics\\TRUST ISSUES 2.txt"
+	},
+	{
+		"title": "trust_issues",
+		"lyricsPath": "lyrics\\trust_issues.txt"
+	},
+	{
+		"title": "Tryna get down",
+		"lyricsPath": "lyrics\\Tryna get down.txt"
+	},
+	{
+		"title": "u the one i need",
+		"lyricsPath": "lyrics\\u the one i need.txt"
+	},
+	{
+		"title": "u think im up",
+		"lyricsPath": "lyrics\\u think im up.txt"
+	},
+	{
+		"title": "UBER XL REMIX",
+		"lyricsPath": "lyrics\\UBER XL REMIX.txt"
+	},
+	{
+		"title": "uncomparable",
+		"lyricsPath": "lyrics\\uncomparable.txt"
+	},
+	{
+		"title": "Undercover",
+		"lyricsPath": "lyrics\\Undercover.txt"
+	},
+	{
+		"title": "Unlucky",
+		"lyricsPath": "lyrics\\Unlucky.txt"
+	},
+	{
+		"title": "until",
+		"lyricsPath": "lyrics\\until.txt"
+	},
+	{
+		"title": "untitled_screamo_song",
+		"lyricsPath": "lyrics\\untitled_screamo_song.txt"
+	},
+	{
+		"title": "used to be",
+		"lyricsPath": "lyrics\\used to be.txt"
+	},
+	{
+		"title": "Valentine Unreleased",
+		"lyricsPath": "lyrics\\Valentine Unreleased.txt"
+	},
+	{
+		"title": "valentine",
+		"lyricsPath": "lyrics\\valentine.txt"
+	},
+	{
+		"title": "Vamp Dance",
+		"lyricsPath": "lyrics\\Vamp Dance.txt"
+	},
+	{
+		"title": "veins",
+		"lyricsPath": "lyrics\\veins.txt"
+	},
+	{
+		"title": "Venom",
+		"lyricsPath": "lyrics\\Venom.txt"
+	},
+	{
+		"title": "Virgin",
+		"lyricsPath": "lyrics\\Virgin.txt"
+	},
+	{
+		"title": "Vivimy",
+		"lyricsPath": "lyrics\\Vivimy.txt"
+	},
+	{
+		"title": "Walk",
+		"lyricsPath": "lyrics\\Walk.txt"
+	},
+	{
+		"title": "want",
+		"lyricsPath": "lyrics\\want.txt"
+	},
+	{
+		"title": "weird\u200b",
+		"lyricsPath": "lyrics\\weird\u200b.txt"
+	},
+	{
+		"title": "what am i supposed to do",
+		"lyricsPath": "lyrics\\what am i supposed to do.txt"
+	},
+	{
+		"title": "Whisper",
+		"lyricsPath": "lyrics\\Whisper.txt"
+	},
+	{
+		"title": "why cant you",
+		"lyricsPath": "lyrics\\why cant you.txt"
+	},
+	{
+		"title": "Witchy bitch",
+		"lyricsPath": "lyrics\\Witchy bitch.txt"
+	},
+	{
+		"title": "witchybitchy",
+		"lyricsPath": "lyrics\\witchybitchy.txt"
+	},
+	{
+		"title": "Without u",
+		"lyricsPath": "lyrics\\Without u.txt"
+	},
+	{
+		"title": "Won\u2019t miss!! (snippet)",
+		"lyricsPath": "lyrics\\Won\u2019t miss!! (snippet).txt"
+	},
+	{
+		"title": "Xan",
+		"lyricsPath": "lyrics\\Xan.txt"
+	},
+	{
+		"title": "Yea i doubt it",
+		"lyricsPath": "lyrics\\Yea i doubt it.txt"
+	},
+	{
+		"title": "Yeah",
+		"lyricsPath": "lyrics\\Yeah.txt"
+	},
+	{
+		"title": "YEN MAKE EVERY BIH LOOK GOTH",
+		"lyricsPath": "lyrics\\YEN MAKE EVERY BIH LOOK GOTH.txt"
+	},
+	{
+		"title": "YESMEN",
+		"lyricsPath": "lyrics\\YESMEN.txt"
+	},
+	{
+		"title": "YHU MA SUN",
+		"lyricsPath": "lyrics\\YHU MA SUN.txt"
+	},
+	{
+		"title": "yhu_ma_sun",
+		"lyricsPath": "lyrics\\yhu_ma_sun.txt"
+	},
+	{
+		"title": "Ysl",
+		"lyricsPath": "lyrics\\Ysl.txt"
+	},
+	{
+		"title": "^-^",
+		"lyricsPath": "lyrics\\^-^.txt"
+	},
+	{
+		"title": "\u02c23",
+		"lyricsPath": "lyrics\\\u02c23.txt"
+	},
+	{
+		"title": "\u200ebuilt off slime",
+		"lyricsPath": "lyrics\\\u200ebuilt off slime.txt"
+	},
+	{
+		"title": "\u200eclueless",
+		"lyricsPath": "lyrics\\\u200eclueless.txt"
+	},
+	{
+		"title": "\u200econvenience",
+		"lyricsPath": "lyrics\\\u200econvenience.txt"
+	},
+	{
+		"title": "\u200edo 2 much",
+		"lyricsPath": "lyrics\\\u200edo 2 much.txt"
+	},
+	{
+		"title": "\u200edrama queen",
+		"lyricsPath": "lyrics\\\u200edrama queen.txt"
+	},
+	{
+		"title": "\u200eentry four",
+		"lyricsPath": "lyrics\\\u200eentry four.txt"
+	},
+	{
+		"title": "\u200eentry one",
+		"lyricsPath": "lyrics\\\u200eentry one.txt"
+	},
+	{
+		"title": "\u200eentry six",
+		"lyricsPath": "lyrics\\\u200eentry six.txt"
+	},
+	{
+		"title": "\u200eentry three",
+		"lyricsPath": "lyrics\\\u200eentry three.txt"
+	},
+	{
+		"title": "\u200eentry two",
+		"lyricsPath": "lyrics\\\u200eentry two.txt"
+	},
+	{
+		"title": "\u200efreegrave",
+		"lyricsPath": "lyrics\\\u200efreegrave.txt"
+	},
+	{
+		"title": "\u200eindie rock draft",
+		"lyricsPath": "lyrics\\\u200eindie rock draft.txt"
+	},
+	{
+		"title": "\u200elawsy diss",
+		"lyricsPath": "lyrics\\\u200elawsy diss.txt"
+	},
+	{
+		"title": "\u200emigraine",
+		"lyricsPath": "lyrics\\\u200emigraine.txt"
+	},
+	{
+		"title": "\u200enever meet your idols",
+		"lyricsPath": "lyrics\\\u200enever meet your idols.txt"
+	},
+	{
+		"title": "\u200eoffensive",
+		"lyricsPath": "lyrics\\\u200eoffensive.txt"
+	},
+	{
+		"title": "\u200eold sad stuff, blame",
+		"lyricsPath": "lyrics\\\u200eold sad stuff, blame.txt"
+	},
+	{
+		"title": "\u200epaypal",
+		"lyricsPath": "lyrics\\\u200epaypal.txt"
+	},
+	{
+		"title": "\u200estep",
+		"lyricsPath": "lyrics\\\u200estep.txt"
+	},
+	{
+		"title": "\u200etrust issues",
+		"lyricsPath": "lyrics\\\u200etrust issues.txt"
+	},
+	{
+		"title": "\u200etylenol",
+		"lyricsPath": "lyrics\\\u200etylenol.txt"
+	},
+	{
+		"title": "\u200evivienne",
+		"lyricsPath": "lyrics\\\u200evivienne.txt"
+	},
+	{
+		"title": "\u200ewhat if she already knows everything",
+		"lyricsPath": "lyrics\\\u200ewhat if she already knows everything.txt"
 	}
 ]
