@@ -30,6 +30,13 @@
       .go-back-button:hover {
          background-color: #ff4f78;
       }
+
+      /* Add this style for the title header */
+      .song-title {
+         font-size: 24px;
+         font-weight: bold;
+         margin-bottom: 10px;
+      }
    </style>
 </head>
 
@@ -40,6 +47,9 @@
 
    <main>
       <button class="go-back-button" onclick="goBack()">Go Back</button>
+
+      <!-- Add a new div for the song title -->
+      <div class="song-title" id="songTitle"></div>
 
       <div class="lyrics-container" id="lyricsContainer">
          <!-- Lyrics will be displayed here -->
@@ -63,12 +73,18 @@
       async function displayLyrics() {
          const params = new URLSearchParams(window.location.search);
          const lyricsPath = params.get('lyricsPath');
+         const songTitle = params.get('songTitle'); // Get the song title from the URL
          try {
             const response = await fetch(lyricsPath);
             if (!response.ok) {
                throw new Error("Lyrics not found");
             }
             const lyrics = await response.text();
+
+            // Set the song title in the header
+            document.getElementById("songTitle").innerText = songTitle;
+
+            // Display the lyrics
             document.getElementById("lyricsContainer").innerText = lyrics;
          } catch (error) {
             console.error("Error:", error);

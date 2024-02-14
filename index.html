@@ -12,7 +12,24 @@
 
    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
 
+   <style>
+      h1 {
+         font-size: 64px;
+         font-weight: bold;
+         margin: 0;
+         display: flex;
+         align-items: center;
+      }
 
+      #yen-symbol {
+         width: 80px;
+         /* Adjust the width as needed */
+         height: auto;
+         /* Maintain aspect ratio */
+         margin-right: 1px;
+         /* Adjust the spacing as needed */
+      }
+   </style>
    <meta content="Yen lyrics" property="og:title" />
    <meta
       content="side dedicated to collecting song lyrics from Jayden Yen Dumont, better known by his stage name jaydes (formerly Evvls) is a young member of Lil Tecca’s collective, 1stClassAngels. jaydes is known for his work alongside names like 800pts and glumboy."
@@ -31,7 +48,19 @@
 
 <body>
    <header>
-      <h1>Yen Lyrics</h1>
+      <h1>
+
+         <img src="img/JPY_g.svg.png" alt="Yen Symbol" id="yen-symbol">
+
+
+
+
+         <p id="title-thing"> en L</p> <img src="img/JPY_g.svg.png" alt="Yen Symbol" id="yen-symbol">
+         <p id="title-thing"> rics</p>
+      </h1>
+
+
+
    </header>
 
    <main>
@@ -77,7 +106,8 @@
                listItem.classList.add("songItem");
                listItem.dataset.lyricsPath = song.lyricsPath; // Store lyricsPath as dataset
                listItem.addEventListener("click", function () {
-                  navigateToLyricsPage(song.lyricsPath);
+                  const songTitle = song.title; // Ensure song.title is defined
+                  navigateToLyricsPage(song.lyricsPath, songTitle);
                });
                songListElement.appendChild(listItem);
             });
@@ -87,9 +117,8 @@
          }
       }
 
-
-      function navigateToLyricsPage(lyricsPath) {
-         window.location.href = `lyrics.html?lyricsPath=${lyricsPath}`;
+      function navigateToLyricsPage(lyricsPath, songTitle) {
+         window.location.href = `lyrics.html?lyricsPath=${lyricsPath}&songTitle=${encodeURIComponent(songTitle)}`;
       }
 
       function searchSong() {

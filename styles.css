@@ -1,135 +1,170 @@
 /* CSS for header, main, footer */
+html {
+	cursor: url("img/cursor.png"), auto;
+}
+
 body {
-   font-family: "Archivo Black", sans-serif;
-   margin: 0;
-   padding: 0;
-   background-color: #ff1d65;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-   height: 100vh;
+	font-family: "Archivo Black", sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #ff1d65;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 }
 
 header {
-   background-color: #ff1d65;
-   color: black;
-   text-align: center;
-   padding: 20px 0;
-   font-family: "Gothic", sans-serif;
+	background-color: #ff1d65;
+	color: black;
+	text-align: center;
+	padding: 20px 0;
+	font-family: "Gothic", sans-serif;
+	position: relative;
 }
 
 h1 {
-   font-size: 32px;
-   font-weight: bold;
-   margin: 0;
+	font-size: 32px;
+	font-weight: bold;
+	margin: 0;
+	position: relative;
+}
+
+h1 span {
+	color: black;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 main {
-   padding: 20px;
-   text-align: center;
+	padding: 20px;
+	text-align: center;
 }
 
 #searchContainer {
-   margin-bottom: 20px;
-   display: flex;
-   justify-content: center;
-   align-items: flex-start; /* Align items at the start of the cross axis */
-   flex-wrap: wrap; /* Allow items to wrap to the next line on smaller screens */
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start; /* Align items at the start of the cross axis */
+	flex-wrap: wrap; /* Allow items to wrap to the next line on smaller screens */
 }
 
 #searchInput {
-   width: 100%;
-   max-width: 300px;
-   padding: 10px;
-   font-size: 16px;
-   border: 1px solid #ccc;
-   border-radius: 5px;
-   margin-bottom: 10px;
+	width: 100%;
+	max-width: 300px;
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-bottom: 10px;
 }
 
 #searchButton {
-   padding: 10px 20px;
-   font-size: 16px;
-   border: none;
-   border-radius: 5px;
-   background-color: #fff;
-   color: #ff1d65;
-   cursor: pointer;
-   transition: background-color 0.3s, color 0.3s;
+	padding: 10px 20px;
+	font-size: 16px;
+	border: none;
+	border-radius: 5px;
+	background-color: #fff;
+	color: #ff1d65;
+	cursor: pointer;
+	transition: background-color 0.3s, color 0.3s;
 }
 
 #searchButton:hover {
-   background-color: #ff1d65;
-   color: #fff;
+	background-color: #ff1d65;
+	color: #fff;
+	cursor: url("img/cursor.png"), auto;
 }
 
 #songListHeader {
-   margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 #songListHeader h2 {
-   font-size: 24px;
-   color: #ff1d65;
+	font-size: 24px;
+	color: #ff1d65;
 }
 
 #songListContainer {
-   width: 100%;
-   max-height: 300px;
-   overflow-y: auto;
+	width: 100%;
+	max-height: 300px;
+	overflow-y: auto;
 }
 
 #songList {
-   list-style: none;
-   padding: 0;
-   scrollbar-width: thin;
-   scrollbar-color: pink pink;
+	list-style: none;
+	padding: 0;
+	scrollbar-width: thin;
+	scrollbar-color: pink pink;
 }
 
 .songItem {
-   font-size: 18px;
-   font-family: "Arial", sans-serif;
-   margin-bottom: 10px;
-   cursor: pointer;
-   transition: font-size 0.3s, color 0.3s;
+	font-size: 18px;
+	font-family: "Arial", sans-serif;
+	margin-bottom: 10px;
+	cursor: pointer;
+	transition: font-size 0.3s, color 0.3s;
 }
 
 .songItem:hover {
-   font-size: 20px;
-   color: #ff4f78;
+	font-size: 20px;
+	color: #ff4f78;
+	cursor: url("img/cursor.png"), auto;
 }
 
 .lyrics-container {
-   padding: 20px;
-   background-color: #fff;
-   border-radius: 5px;
-   max-height: 400px;
-   overflow-y: auto;
-   margin: 20px auto;
-   max-width: 600px;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 5px;
+	max-height: 400px;
+	overflow-y: auto;
+	margin: 20px auto;
+	max-width: 600px;
 }
 
 .go-back-button {
-   background-color: #ff1d65;
-   color: #fff;
-   border: none;
-   border-radius: 5px;
-   padding: 10px 20px;
-   cursor: pointer;
-   font-size: 16px;
-   transition: background-color 0.3s;
+	background-color: #ff1d65;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: background-color 0.3s;
 }
 
 .go-back-button:hover {
-   background-color: #ff4f78;
+	background-color: #ff4f78;
 }
 
 @media (max-width: 600px) {
-   #searchInput {
-      width: 100%;
-   }
+	#searchInput {
+		width: 100%;
+	}
 
-   #searchButton {
-      width: 100%;
-   }
+	#searchButton {
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 24px; /* Adjust the font size for smaller screens */
+	}
+
+	h1 span {
+		font-size: 24px; /* Adjust the font size for smaller screens */
+	}
+}
+
+@font-face {
+	font-family: "Seagram tfb";
+	src: url("Seagram tfb.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+#title-thing {
+	font-family: "seagram tfb", sans-serif;
 }
