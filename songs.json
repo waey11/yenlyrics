@@ -1,10 +1,5 @@
 [
-	
-{
-		"title": "won't miss",
-		"lyricsPath": "lyrics\\wontmiss.txt"
-},
-{
+	{
 		"title": "(miss my) headache",
 		"lyricsPath": "lyrics\\(miss my) headache.txt"
 	},
@@ -1159,5 +1154,9 @@
 	{
 		"title": "\u200ewhat if she already knows everything",
 		"lyricsPath": "lyrics\\\u200ewhat if she already knows everything.txt"
-	}
+	},
+{
+		"title": "won't miss",
+		"lyricsPath": "lyrics\\wontmiss.txt"
+}
 ]
