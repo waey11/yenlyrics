@@ -75,8 +75,6 @@ main {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 
-	font-family: "Seagram tfb";
-	src: url("Seagram tfb.ttf") format("truetype");
 	font-weight: normal;
 	font-style: normal;
 }
