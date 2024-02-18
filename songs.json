@@ -1021,7 +1021,11 @@
 	},
 	{
 		"title": "won't miss",
+<<<<<<< HEAD
 		"lyricsPath": "lyrics\\Won\u2019t miss!! (snippet).txt"
+=======
+		"lyricsPath": "lyrics\\wontmiss.txt"
+>>>>>>> 4ce5365f33d8005abfa4c6b6b13af2901a4c2834
 	},
 	{
 		"title": "Xan",
