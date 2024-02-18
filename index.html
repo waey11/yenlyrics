@@ -127,13 +127,16 @@
          for (const song of songs) {
             const songTitle = song.textContent.toLowerCase();
             if (songTitle.includes(searchQuery)) {
-               navigateToLyricsPage(song.dataset.lyricsPath);
+               const lyricsPath = song.dataset.lyricsPath;
+               const songTitle = song.textContent; // Get the song title
+               navigateToLyricsPage(lyricsPath, songTitle); // Pass the song title
                return;
             }
          }
          // If no matching song found
          alert("Song not found!");
       }
+
 
    </script>
 </body>
