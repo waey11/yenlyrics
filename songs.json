@@ -1,5 +1,10 @@
 [
-	{
+	
+{
+		"title": "won't miss",
+		"lyricsPath": "lyrics\wontmiss.txt"
+},
+{
 		"title": "(miss my) headache",
 		"lyricsPath": "lyrics\\(miss my) headache.txt"
 	},
