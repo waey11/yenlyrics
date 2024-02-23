@@ -234,3 +234,14 @@ main {
 	color: black;
 	font-size: 14px;
 }
+@font-face {
+	font-family: "Seagram tfb";
+	src: url("Seagram tfb.ttf") format("truetype");
+	font-weight: thin;
+	font-style: normal;
+}
+#title-thing {
+	color: black;
+
+	font-family: "seagram tfb", sans-serif;
+}
